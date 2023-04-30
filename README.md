@@ -160,7 +160,7 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 
 Ibuanokpe Peter - [Github](https://github.com/itzcephas)
 
-Luis Chaparro - [Github](https://github.com/ManuelDamien)
+Emmanuel Owusu Boateng - [Github](https://github.com/ManuelDamien)
 
 Second part of Airbnb: Joann Vuong
 ## License
